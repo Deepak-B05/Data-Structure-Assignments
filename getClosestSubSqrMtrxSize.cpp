@@ -60,7 +60,7 @@ int getClosestSqurMtrxSize(char* userStr, char mtrx[][500], int MtrxSize)
 
 
 int main() {
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */
+    
     int noOfTestCase = 0, mtrxSize = 0, strCount = 0;
     char userStr[500];
     char matrx[500][500];
